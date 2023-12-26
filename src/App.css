@@ -1,0 +1,15 @@
+.Pokemon{
+background-color: rgba(228, 217, 204, 0.712);
+border-radius: 5px;
+text-align: center;
+
+}
+.dex{
+  max-width: max-content;
+
+}
+.title{
+ display: flex;
+ justify-content: center;
+
+}
